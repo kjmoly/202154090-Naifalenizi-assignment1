@@ -12,3 +12,10 @@ The purpose of this project is to practice basic front-end development and respo
 - Contact form with basic validation
 - Time-based greeting using JavaScript
 - Responsive layout using CSS
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages (for deployment)
