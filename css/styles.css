@@ -11,7 +11,10 @@ body {
     line-height: 1.6;
     background-color: #f4f4f4;
     padding: 20px;
+    max-width: 900px;
+    margin: auto;
 }
+
 
 /* Header */
 header {
@@ -37,9 +40,9 @@ section {
 }
 
 .profile-img {
-    width: 200px;        /* يتحكم بالحجم */
+    width: 50px;        
     height: auto;
-    border-radius: 10px; /* تخليه حواف ناعمة */
+    border-radius: 2.5px; 
     display: block;
     margin-bottom: 15px;
 }
