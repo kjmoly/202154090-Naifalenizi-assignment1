@@ -40,9 +40,9 @@ section {
 }
 
 .profile-img {
-    width: 50px;        
+    width: 100px;        
     height: auto;
-    border-radius: 2.5px; 
+    border-radius: 5px; 
     display: block;
     margin-bottom: 15px;
 }
