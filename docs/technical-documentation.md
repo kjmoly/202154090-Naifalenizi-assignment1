@@ -15,3 +15,9 @@ The project follows a simple and organized folder structure:
 - js/script.js → JavaScript functionality (time-based greeting)
 - assets/images/ → Contains images used in the website
 - docs/ → Documentation files
+
+## Design & Responsiveness
+
+The layout is built using basic CSS styling. Sections are separated clearly with spacing and simple visual structure.
+
+Responsive behavior is achieved using flexible widths and layout adjustments to ensure the website displays properly on different screen sizes (desktop, tablet, and mobile).
