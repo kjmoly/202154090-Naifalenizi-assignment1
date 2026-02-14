@@ -21,3 +21,8 @@ The project follows a simple and organized folder structure:
 The layout is built using basic CSS styling. Sections are separated clearly with spacing and simple visual structure.
 
 Responsive behavior is achieved using flexible widths and layout adjustments to ensure the website displays properly on different screen sizes (desktop, tablet, and mobile).
+## JavaScript Functionality
+
+A simple JavaScript function is implemented to display a greeting message based on the current time of day (morning, afternoon, or evening).
+
+The script runs automatically when the page loads and updates the greeting message dynamically.
