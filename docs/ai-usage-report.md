@@ -10,3 +10,7 @@ ChatGPT was used as a support tool to review layout structure and suggest improv
 All suggested code was reviewed, tested, and modified before being included in the final version.
 
 It was also used to help debug image path issues and improve the responsiveness of the layout.
+
+## Benefits
+
+Using AI helped speed up development and provided quick clarification for technical concepts. It also helped identify layout issues and suggest improvements efficiently.
