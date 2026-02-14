@@ -19,3 +19,12 @@ The purpose of this project is to practice basic front-end development and respo
 - CSS
 - JavaScript
 - GitHub Pages (for deployment)
+
+## How to Run
+
+This project is deployed using GitHub Pages.
+
+You can access it here:
+https://kjmoly.github.io/202154090-Naifalenizi-assignment1/
+
+You can also clone the repository and open the `index.html` file in your browser.
