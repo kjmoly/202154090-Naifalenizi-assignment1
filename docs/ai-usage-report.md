@@ -14,3 +14,9 @@ It was also used to help debug image path issues and improve the responsiveness 
 ## Benefits
 
 Using AI helped speed up development and provided quick clarification for technical concepts. It also helped identify layout issues and suggest improvements efficiently.
+
+## Learning Outcomes
+
+Through using AI as a support tool, I improved my understanding of HTML structure, CSS styling, and basic JavaScript functionality. 
+
+I learned how to review AI-generated suggestions critically and adapt them to fit my project requirements instead of copying them directly.
