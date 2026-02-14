@@ -20,3 +20,10 @@ Using AI helped speed up development and provided quick clarification for techni
 Through using AI as a support tool, I improved my understanding of HTML structure, CSS styling, and basic JavaScript functionality. 
 
 I learned how to review AI-generated suggestions critically and adapt them to fit my project requirements instead of copying them directly.
+
+
+## Responsible Use & Modifications
+
+All AI suggestions were carefully reviewed and tested before being included in the project. I modified the structure, styling, and wording where necessary to match my own understanding and assignment requirements.
+
+AI was used as a learning and support tool rather than as a replacement for my own work.
