@@ -36,11 +36,14 @@ section {
     margin-bottom: 20px;
 }
 
-.project img {
-    width: 100%;
-    max-width: 300px;
-    margin-top: 10px;
+.profile-img {
+    width: 200px;        /* يتحكم بالحجم */
+    height: auto;
+    border-radius: 10px; /* تخليه حواف ناعمة */
+    display: block;
+    margin-bottom: 15px;
 }
+
 
 /* Form */
 form input,
